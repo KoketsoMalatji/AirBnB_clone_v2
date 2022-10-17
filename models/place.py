@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""This is the place class"""
+"""Module for place class"""
 from sqlalchemy import String, DateTime
 from sqlalchemy import Column, ForeignKey, Integer
 from sqlalchemy import Float, Table
