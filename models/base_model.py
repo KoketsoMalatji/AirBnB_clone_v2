@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""This is the base model class for AirBnB"""
+"""Module for base model class"""
 import uuid
 from datetime import datetime
 from sqlalchemy.orm import declarative_base
