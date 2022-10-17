@@ -142,5 +142,5 @@ Usage: <class_name>.update(<_id>, <dictionary>)
 <br>
 
 Edited by:
-Samuel Lutumba
+Samuel Lutumba,
 Koketso Malatji
